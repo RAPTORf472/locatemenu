@@ -1,0 +1,11 @@
+name: Locate_Menu
+main: me.raptor.locatemenu.LocateMenu
+version: 4.0
+author: RAPTOR
+description: An awesome plugin!
+api-version: 1.13
+
+commands:
+    menu:
+      usage: /<command>
+      description: open locate menu
